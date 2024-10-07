@@ -68,6 +68,9 @@ me gradue de bachillerato en el Politecnico Internacional de Cali donde aprendi 
    
   
   <br>
+  <div align="center">
+  <h3><b> Esta no es mi serpiente pero proximamente pondre la mia mia 😅 
+  </div>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
