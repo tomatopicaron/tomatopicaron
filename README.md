@@ -82,7 +82,7 @@ me gradue de bachillerato en el Politecnico Internacional de Cali donde aprendi 
 
 [TOMATO PICARON](https://github.com/tomatopicaron)
 
-Ultimo edit: 10/06/2024
+Ultimo edit: march/2026
 
 
 ------
